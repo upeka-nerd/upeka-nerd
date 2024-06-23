@@ -83,12 +83,6 @@
 ###
 <hr/>
 
-<div align="center">
-
-![snake gif](https://github.com/upeka-silva/upeka-silva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
 ###
 <div align="center">
 <a href="https://git.io/streak-stats">
