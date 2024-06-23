@@ -4,11 +4,10 @@
 
 <p align="center">coding enthusiast,maverick in the making💻</p>
 
-###
 
 <br clear="both">
 
-###
+
 <div align="left">
   <img src="https://profile-counter.glitch.me/upeka-nerd/count.svg?"  />
 </div>
