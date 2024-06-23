@@ -86,6 +86,26 @@
 
 ###
 
+<div align="center">
+<a href="https://git.io/streak-stats">
+ 
+ 
+ 
+ <img src="https://streak-stats.demolab.com?user=upeka-silva&theme=dark" alt="GitHub Streak" />
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+</a>
+ 
+
+
+</div>
+
+
+
+
 
 
 ###
