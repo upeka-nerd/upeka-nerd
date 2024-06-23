@@ -92,6 +92,9 @@
 
 </a>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=upeka-silva&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <hr/>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=upeka-silva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
