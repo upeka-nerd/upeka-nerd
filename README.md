@@ -82,6 +82,14 @@
 
 ###
 <hr/>
+
+<div align="center">
+
+  ![snake animation](https://github.com/<seu upeka-silva>/<seu upeka-silva>/blob/output/github-contribution-grid-snake2.svg)
+ 
+</div>
+
+###
 <div align="center">
 <a href="https://git.io/streak-stats">
  
